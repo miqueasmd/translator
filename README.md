@@ -68,7 +68,3 @@ How to Contribute:
 - **Additional Libraries**: Integrate with other translation libraries for added options.
 - **Extended Language Options**: Add more languages or dialects.
 - **Batch Translation**: Allow users to input multiple texts for translation in one session.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
