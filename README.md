@@ -32,7 +32,7 @@ These instructions will help you set up and run the project on your local machin
    git clone https://github.com/yourusername/language-translator.git
    cd language-translator
 
-2. **Install Dependencies Use pip to install the required library**
+2. **Install Dependencies: Use pip to install the required library**
    ```bash
    pip install deep-translator
 
