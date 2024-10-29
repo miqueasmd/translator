@@ -29,8 +29,8 @@ These instructions will help you set up and run the project on your local machin
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/language-translator.git
-   cd language-translator
+   git clone https://github.com/miqueasmd/translator.git
+   cd translator
 
 2. **Install Dependencies: Use pip to install the required library**
    ```bash
