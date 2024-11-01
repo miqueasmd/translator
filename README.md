@@ -46,11 +46,30 @@ These instructions will help you set up and run the project on your local machin
 
 - `translator.py`: Main script for running the translator.
 - `languages.py`: Dictionary of languages supported by the translator.
+- `app.py`: Streamlit application for the translator.
 - `README.md`: Project documentation and setup instructions.
 
 ## 🌍 Supported Languages
 
 The supported languages and their codes are available in `languages.py`. This allows for future expansions or modifications of supported languages as needed.
+
+## 🚀 Running the Application with Streamlit
+
+To run the translation application using Streamlit, follow these steps:
+
+1. **Install dependencies**:
+   Make sure you have `streamlit` and `deep-translator` installed. You can install them using pip.
+
+2. **Run the application**:
+   Navigate to the directory where the `app.py` file is located and run the appropriate command.
+
+3. **Open the application in the browser**:
+   Once you run the above command, Streamlit will automatically open a new tab in your browser with the translation application.
+
+4. **Using the application**:
+   - Enter the text you want to translate in the input field.
+   - Select the target language from the dropdown menu.
+   - Click the "Translate" button to get the translation.
 
 ## 🤝 Contributing
 
