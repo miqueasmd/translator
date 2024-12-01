@@ -1,5 +1,3 @@
-!pip install deep-translator
-
 import streamlit as st
 from deep_translator import GoogleTranslator
 
