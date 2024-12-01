@@ -92,6 +92,7 @@ def translate_text():
             st.write("Please enter some text and select a language to translate.")
 
 if __name__ == "__main__":
-    st.image("imagen.jpg", use_column_width=True)
+    imagen = "imagen.jpg"  # Define the path to your image file
+    st.image(imagen, use_container_width=True)
     st.title("Welcome to the Language Translator!")
     translate_text()
