@@ -1,4 +1,5 @@
-# 🌐 Language Translator
+# 🌐 Language Translator. 
+Try it out here: [Translator App on Streamlit](https://mmdtranslator.streamlit.app/).
 
 A command-line based language translator built in Python. This project utilizes the [Deep Translator](https://github.com/nidhaloff/deep-translator) library, allowing users to translate text across multiple languages easily and quickly.
 
