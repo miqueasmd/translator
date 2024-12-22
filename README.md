@@ -88,3 +88,10 @@ How to Contribute:
 - **Additional Libraries**: Integrate with other translation libraries for added options.
 - **Extended Language Options**: Add more languages or dialects.
 - **Batch Translation**: Allow users to input multiple texts for translation in one session.
+
+## ☕ Support Me
+
+If you find this project helpful, consider supporting me on Ko-fi:
+Your contributions will help cover fees and materials for my **Computer Science and Engineering studies at UoPeople** starting in September 2025.
+
+<a href="https://ko-fi.com/miqueasmd"><img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
